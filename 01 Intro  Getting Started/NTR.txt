@@ -1,0 +1,10 @@
+VSC use
+extension 
+immet
+Liveserver
+Prettier code formatter Bracket Pair Colonizer
+VScode-icons
+
+editor.format
+
+Emmet crash course Youtube 
